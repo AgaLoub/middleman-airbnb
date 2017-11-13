@@ -1,0 +1,27 @@
+alexialet:
+  name: "Alexia's home"
+  host: "Alexia"
+  description: "Charming room in Amsterdam"
+  city_name: "Amsterdam, Pays-Bas"
+  city_slug: "amsterdam"
+  wifi: false
+  rating: 4
+  presentation: "Venez découvrir les joies des coffee shop et autres clichés en tout genre"
+donatienrolland:
+  name: "Donatien's home"
+  host: "Donatien"
+  description: "Small flat in Nantes"
+  city_name: "Nantes, France"
+  city_slug: "nantes"
+  wifi: true
+  rating: 3
+  presentation: "Profitez de Nantes et sa gastronomie !"
+guillaumeh95:
+  name: "Guillaume's home"
+  host: "Guillaume"
+  description: "Nice flat in Tokyo"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 5
+  presentation: "A la découverte de Tokyo et de son univers cosmopolite !"

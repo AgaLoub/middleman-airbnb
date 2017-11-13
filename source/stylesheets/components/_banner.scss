@@ -20,3 +20,43 @@
   opacity: 0.6;
   margin-bottom: 30px;
 }
+
+//banner sur les pages d'appart
+.flatbanner {
+  color: white;
+  text-align: center;
+  height: 400px;
+  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+  flex: 1 0 auto;
+
+}
+.text-avatar {
+  font-size: 15px;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.small-banner {
+  color: black;
+  background-color: white;
+  box-shadow: 2px 2px 2px $gray;
+  padding: 20px;
+}
+.small-banner p {
+  text-align: left;
+}
+.small-banner li {
+  font-size: 10px;
+  list-style-type: none;
+}
